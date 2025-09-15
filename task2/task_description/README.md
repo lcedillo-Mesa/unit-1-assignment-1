@@ -2,7 +2,7 @@
 
 Build out the folder structures below. use main as the start of your folder strucure. 
 
-![Alt Text](/task1/task1-description/Screenshot%202025-09-14%20at%207.29.31 PM.png){ width=200px }
+![Alt Text](/task2/task_description/Screenshot%202025-09-14%20at%209.13.08 PM.png)
 
 you can also just open the image directly by clicking on Sceenshot file.  
 
