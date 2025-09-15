@@ -1,6 +1,6 @@
 ### Level 1 task
 
-Build out the folder structures below. use root as the start of your folder strucure. 
+Build out the folder structures below. use main as the start of your folder strucure. 
 
 ![Alt Text](/task1/task1-description/Screenshot%202025-09-14%20at%207.55.01 PM.png)
 
